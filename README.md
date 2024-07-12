@@ -1,10 +1,7 @@
 <h1 align="center">Hello! 👋, I'm David</h1>
 <h3 align="center">Studying CS @ Northwestern University. Passionate about creating tangible products through software.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207…”>
 
 - 🔭 I’m currently working on **Heat Map Habit Tracker**
-
-- 📫 How to reach me **dvdpark4000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
