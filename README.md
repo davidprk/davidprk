@@ -15,6 +15,4 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DPark17)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-park-04&show_icons=true&locale=en" alt="david-park-04" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-park-04&" alt="david-park-04" /></p>
