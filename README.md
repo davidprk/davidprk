@@ -1,8 +1,6 @@
 <h1 align="center">Hello! 👋 I'm David</h1>
 <h3 align="center">Studying CS @ Northwestern University. Passionate about creating tangible products through software. Feel free to reach out!</h3>
 
-- 🔭 I’m currently working on **Heat Map Habit Tracker**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
