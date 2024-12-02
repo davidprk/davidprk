@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm David</h1>
-<h3 align="center">Studying CS @ Northwestern University. Passionate about creating tangible products through software. Currently interested in learning more about full stack and systems. Feel free to reach out!</h3>
+<h3 align="center">Studying CS @ Northwestern University. Passionate about creating tangible products through software. Currently interested in learning more about full stack, systems, 3D graphics, and code optimization. Feel free to reach out!</h3>
 
 
 <h3 align="left">Connect with me:</h3>
