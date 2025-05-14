@@ -16,5 +16,5 @@
  ~~~^^~~~~~~~^^^^~~~~~^^~~~~~~~^^^^~~~^^~   
 ```
 
-<p>Studying CS @ Northwestern University. Interested in full-stack, systems, graphics, and productivity tools. Feel free to reach out!</p>
+<p>Interested in full-stack, systems, productivity tools, and graphics. Feel free to reach out!</p>
 
